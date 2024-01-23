@@ -27,4 +27,10 @@ public class B {
 	{
 		System.out.println("bbbbb4");
 	}
+	
+	@Test
+	public void b5()
+	{
+		System.out.println("bbbbb5");
+	}
 }
