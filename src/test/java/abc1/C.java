@@ -27,4 +27,10 @@ public class C {
 	{
 		System.out.println("ccccc4");
 	}
+	
+	@Test
+	public void c5()
+	{
+		System.out.println("ccccc5");
+	}
 }
